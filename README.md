@@ -56,6 +56,8 @@ c367f7a9253530f65130dc6277b8e97941f68571
 ...
 e172c55ffaab89b11e333f1203af1381adea3058
 ```
+但是作为抽奖的算法，这样还不够，还需要一定的随机混乱度（见 [Issue 1](https://github.com/pkuphysu/HashDraw/issues/1)）
+
 
 ## 随机源及身份源的选择
 - 弹幕内容
