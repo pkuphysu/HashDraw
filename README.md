@@ -66,6 +66,8 @@ e172c55ffaab89b11e333f1203af1381adea3058
 - 微信昵称
 - 晚会进程（抽奖环节开始时间）
 
+UPDATE: hmac, Keyed-Hashing for Message Authentication?
+
 ### 投点的实现方式
 在每个人的身份源后，有规律地添加其权重个数，分别求哈希，投入奖池。
 
